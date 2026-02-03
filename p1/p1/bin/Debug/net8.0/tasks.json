@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "0f018042-f008-4ac9-8a34-acdb22fd65b2",
+    "Title": "zaliczenie1",
+    "Description": "4 i do domu",
+    "Date": "2026-01-29",
+    "Time": "17:00",
+    "IsDone": false,
+    "CreatedAt": "2026-01-29T14:26:24.4844887+00:00"
+  },
+  {
+    "Id": "a483660e-d0ed-41be-b280-788d714cff9f",
+    "Title": "EEIA sprawozdanie",
+    "Description": "pspice",
+    "Date": "2026-02-03",
+    "Time": "19:42",
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T09:21:20.5109244+00:00"
+  },
+  {
+    "Id": "c5d05261-63cb-4750-9f68-2698d9aff0f0",
+    "Title": "SO egzamin",
+    "Description": "",
+    "Date": "2026-02-04",
+    "Time": null,
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T09:22:02.3275255+00:00"
+  },
+  {
+    "Id": "8d704c94-99b6-473e-a836-001106b5f60b",
+    "Title": "egzamin MO",
+    "Description": "",
+    "Date": "2026-02-05",
+    "Time": null,
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T09:22:45.5589494+00:00"
+  },
+  {
+    "Id": "d51ca4fd-88e6-49ca-825d-1ac2c5bcebe4",
+    "Title": "mail eeia wykladowca",
+    "Description": "",
+    "Date": "2026-02-03",
+    "Time": null,
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T09:23:28.034584+00:00"
+  },
+  {
+    "Id": "77d14fb2-6ed1-4298-befd-638ec5dbd0e1",
+    "Title": "eeia praca kontrolna XD",
+    "Description": "nie chce mi sie nawet denerwowac",
+    "Date": "2026-02-03",
+    "Time": null,
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T09:24:10.7731096+00:00"
+  },
+  {
+    "Id": "1ae5d321-b379-458b-955d-6f25539559a4",
+    "Title": "prezentacja projektu p3",
+    "Description": "polaczyc sie przez teams",
+    "Date": "2026-02-03",
+    "Time": "12:30",
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T11:26:44.3241487+00:00"
+  },
+  {
+    "Id": "bef58d2e-5738-44eb-8416-3f03385dd474",
+    "Title": "silka",
+    "Description": "wez shaker",
+    "Date": "2026-02-03",
+    "Time": "15:00",
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T11:34:16.1279447+00:00"
+  },
+  {
+    "Id": "049fbacf-df17-40f2-854e-f4a7946c92fa",
+    "Title": "spoznione",
+    "Description": "proba",
+    "Date": "2026-02-02",
+    "Time": "12:00",
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T11:45:29.4699584+00:00"
+  },
+  {
+    "Id": "403d16b7-4ab0-474b-9578-137282be1144",
+    "Title": "jcj",
+    "Description": "ghjd",
+    "Date": "2026-02-03",
+    "Time": null,
+    "IsDone": false,
+    "CreatedAt": "2026-02-03T12:11:01.2275038+00:00"
+  }
+]
